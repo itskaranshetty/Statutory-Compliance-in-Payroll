@@ -6,5 +6,5 @@
   - Payment of Bonus Act
   - Payment of Gratuity Act
   - Employee Provident Fund
-  - Employee Insurance
+  - Employee State Insurance
   - Profession Tax.
