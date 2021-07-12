@@ -7,4 +7,4 @@
   - Payment of Gratuity Act
   - Employee Provident Fund
   - Employee State Insurance
-  - Profession Tax.
+  - Profession Tax
